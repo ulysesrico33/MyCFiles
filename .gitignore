@@ -1,0 +1,6 @@
+.dep.inc
+/build
+/dist
+Makefile
+/nbproject
+.DS_Store
